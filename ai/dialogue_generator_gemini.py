@@ -36,6 +36,8 @@ def infer_partner_from_scene(scene_id: str) -> str:
         return "화야진"
     if "jinhyo" in sid or "jin_hyo" in sid or "진효" in sid:
         return "진효"
+    if "sohyunsoo" in sid or "sohyun" in sid or "소현수" in sid:
+        return "소현수"
     return "백담우"
 
 
@@ -169,7 +171,7 @@ def generate_dialogue_with_gemini(system_prompt: str, user_prompt: str) -> str:
     Google Gemini API를 호출해 7줄 대사 생성.
     """
     model = genai.GenerativeModel(
-        model_name="gemini-2.0-flash",
+        model_name="gemini-2.5-flash",
         system_instruction=system_prompt
     )
 

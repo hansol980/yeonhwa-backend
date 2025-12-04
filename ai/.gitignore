@@ -7,3 +7,4 @@ __pycache__
 before/
 /answer_1-1.py
 /answer_gemini.py
+.DS_Store

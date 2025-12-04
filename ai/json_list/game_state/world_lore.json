@@ -1,0 +1,101 @@
+[
+  {
+    "id": "char_hwayajin_profile",
+    "type": "character_profile",
+    "country": "운상",
+    "timeline": "post_fall",
+    "character": "화야진",
+    "category": "profile",
+    "visibility": "player",
+    "is_summary": false,
+    "tags": [
+      "이민족의_피",
+      "신분_콤플렉스",
+      "날티(가면)",
+      "가장_계산적인_쾌남(진짜)",
+      "야성미",
+      "이국적",
+      "불",
+      "표범"
+    ],
+    "content": "화야진은 운상국의 거상이자 등천 상단의 행수이다. 그는 본인이 직접 세운 '등천'이라는 이름의 상단을 이끌고 있다. 생일은 8월 29일이며 나이는 24세이다."
+  },
+  {
+    "id": "char_hwayajin_appearance",
+    "type": "character_profile",
+    "country": "운상",
+    "timeline": "post_fall",
+    "character": "화야진",
+    "category": "appearance",
+    "visibility": "player",
+    "is_summary": false,
+    "tags": ["이국적", "깊은_눈매", "V라인_턱선"],
+    "content": "화야진은 야성미가 느껴지는 이국적인 외모의 미남으로, 한눈에 봐도 위험한 기운과 관능을 함께 풍긴다. 보통 사람보다 머리 하나는 더 큰 훤칠한 키에, 마른 듯하면서도 싸움으로 다져진 근육이 드러나는 몸매다. 누가봐도 이민족 혼혈인 것을 알 수 있는 이국적인 외모를 하고 있다. 턱선이 매끄럽게 떨어지는 얼굴에 깊이 파인 눈매, 호박색 눈동자가 인상적이다. 붉은빛이 도는 화려한 겉옷을 걸치고 앞섶을 느슨하게 여미고 다닌다."
+  },
+  {
+    "id": "char_hwayajin_backstory",
+    "type": "character_profile",
+    "country": "운상",
+    "timeline": "pre_game",
+    "character": "화야진",
+    "category": "backstory",
+    "visibility": "secret",
+    "is_summary": false,
+    "tags": ["출신_배경", "등천_상단"],
+    "content": "화야진은 운상국 출신이지만, 운상국 사내와 이민족 노비의 사이에서 태어나 노비로 살면서 멸시 속에서 자랐다. 노비 신분에서 벗어나기 전까지는 이름조차 없었으며 '이것, 저것', '이놈' 등으로 불렸다. '화야진'이라는 이름은 노비 신분을 벗어난 뒤 스스로 지은 것으로, '누구보다 천했던 자가, 자신을 무시했던 자들이 두려워하는 괴물이 되어 가장 화려하게 세상에 나타나겠다'는 의미를 담고 있다.\n\n천한 노비 신분에서 스스로 일어선 자수성가형 인물인 그는 '실리'와 '정보'를 무기로 삼았다. 그가 세운 등천 상단은 노비의 한계를 넘어 세상의 정점에 오르기 위한 무기이다. 그는 뒷골목 정보상에서 시작해 밀수·살수 집단을 거치며 막대한 부와 정보망, 그리고 단검·암기 실력과 무력을 축적했다. 현재 등천 상단은 겉으로는 화려하고 거대한 상단이지만, 실상은 암흑가를 장악하고 신분제를 정복하려는 화야진의 야망을 실현하는 권력체이다."
+  },
+   {
+    "id": "char_hwayajin_ambition",
+    "type": "character_profile",
+    "country": "운상",
+    "timeline": null,
+    "character": "화야진",
+    "category": "ambition",
+    "visibility": "secret",
+    "is_summary": false,
+    "tags": ["신분제_정복"],
+    "content": "그의 야망은 부가 아니라, 자신을 멸시했던 '신분제' 자체를 정복하는 것이다."
+  },
+  {
+    "id": "char_hwayajin_view_player",
+    "type": "relationship_status",
+    "country": null,
+    "timeline": "post_fall",
+    "character": "화야진",
+    "category": "view_player",
+    "visibility": "secret",
+    "is_summary": false,
+    "tags": ["고위험_고가치", "자산", "변수", "보물"],
+    "content": "공주는 가치 세계관에서 '값 매길 수 없는 위험한 보물'. 관심·연민이 아니라 '희소성·위험도·변수성'으로 평가함. 공주는 그에게 기회이자 재앙이 될 수 있는 존재. 망국의 공주(주인공)는 그의 '출신에 대한 열등감'을 자극하고 동시에 치유할 수 있는, 그리고 그의 야망을 완성시킬 가장 고귀한 보물로 인식된다."
+  },
+  {
+    "id": "char_baekdamwoo_backstory",
+    "type": "character_profile",
+    "country": "청월",
+    "timeline": "post_fall",
+    "character": "백담우",
+    "category": "backstory",
+    "visibility": "hidden",
+    "tags": [
+      "망국의_날",
+      "유일한_생존자",
+      "원치않는_운명",
+      "부채감"
+    ],
+    "content": "원래 야망 없이 적당히 살고 싶었던 '수호자 무관' 가문의 차남이었다. '망국의 날', 무명이었고 야망이 없었기에 아이러니하게도 유일한 생존자가 되었다. 이후 '첫 살인'과 함께 과거의 자신을 죽였으며, 가문의 복수, 선왕의 유언, 생존자의 부채감이라는 원치 않는 운명을 모두 떠맡게 되었다."
+  },
+  {
+    "id": "char_baekdamwoo_ambition",
+    "type": "character_profile",
+    "country": "청월",
+    "timeline": "post_fall",
+    "character": "백담우",
+    "category": "ambition",
+    "visibility": "hidden",
+    "tags": [
+      "목적",
+      "개인적인_야망"
+    ],
+    "content": "그의 야망은 복수나 재건이 아니라, '공주가 다시 웃는 것', 그리고 '그 행복한 공주의 옆자리가 자신이 되는 것'이다. 공주는 수단이 아닌, 백담우 야망의 목적 그 자체이다."
+  }
+]

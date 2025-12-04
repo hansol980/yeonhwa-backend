@@ -1,0 +1,155 @@
+[
+  {
+    "chapter": 1,
+    "scene_id": "1_PROLOGUE_FALL",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "cheongwol_palace_burning",
+    "tags": ["청월멸망", "백담우", "탈출", "화살", "부상", "과거회상"],
+    "content": "청월국이 멸망하던 밤, 창성공주는 호위무사 백담우의 도움으로 불타는 도성을 탈출했다. 백담우는 공주를 지키기 위해 대신 화살을 맞고 어깨에 부상을 입었으나, 끝까지 공주를 지키며 무너지는 궁을 빠져나갔다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_FOREST_ENCOUNTER",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "forest_hideout",
+    "tags": ["진효", "첫만남", "체포", "제안", "과거회상", "공주의_처소", "태휘국"],
+    "content": "도망 생활 한 달 만에 숲에서 태휘군에게 포위되었다. 그곳에서 태휘국 황태자 진효가 처음 등장했다. 진효는 공주를 정중히 대우하며 '태휘국이 대의로써 공주를 보호하겠다'고 제안했고, 공주는 사실상 포로로서 태휘궁 화림헌으로 이송되었다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_ARRIVAL_HWARIMHEON",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_garden",
+    "tags": ["화림헌", "공주의_처소", "도착", "감시", "새장"],
+    "content": "진효는 공주를 태휘궁 내의 '화림헌(和臨軒)'으로 안내했다. 그는 이곳이 공주가 머물 '처소'라고 소개했다. 화림헌은 겉보기엔 아름다운 전각이지만, 실상은 감시병으로 둘러싸인 화려한 감옥과 같았다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_HWARIMHEON_GUARD",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_gate",
+    "tags": ["백담우", "변화", "살기", "과잉보호", "감시병", "공주의_처소"],
+    "content": "화림헌에 감금된 공주가 답답해하자 백담우가 산책을 제안했다. 감시병이 황태자의 명을 들며 막아서자, 백담우는 평소와 다른 낯선 살기를 내뿜으며 감시병을 위협했다. 공주는 백담우의 이질적인 모습에 충격을 받았다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_GUARD_A",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_gate",
+    "tags": ["선택지_결과", "품위", "제지", "백담우"],
+    "content": "공주가 백담우를 제지하며 품위를 지키는 선택을 했다. 백담우는 멈췄지만 감시병은 공주가 백담우를 통제하지 못한다고 여겨 더 강압적으로 나올 여지를 주었다. 공주는 백담우의 '가면' 같은 순종적인 모습에 더 큰 소름을 느꼈다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_GUARD_B",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_gate",
+    "tags": ["선택지_결과", "통찰", "이용", "현실적", "백담우"],
+    "content": "공주가 백담우의 위협적인 기세를 역이용하여 감시병을 압박했다. 감시병은 물러났고 외출에 성공했으나, 공주는 백담우의 낯선 변화를 이용했다는 사실에 씁쓸함을 느꼈다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_GUARD_C",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_gate",
+    "tags": ["선택지_결과", "통찰", "감정", "백담우_상처"],
+    "content": "공주가 상황보다 백담우의 상태를 걱정하며 말을 걸었다. 백담우는 순간 흔들리는 모습을 보였으나, 이내 감정을 더 깊이 차단하고 차갑게 감시병을 쫓아냈다. 공주는 자신의 위로가 오히려 그를 고립시킨 것은 아닌지 걱정했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_MARKET_DOG",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "taehui_market",
+    "tags": ["시장", "소문", "백담우_과잉보호", "강아지"],
+    "content": "태휘국 시장에서 사람들은 공주를 보며 수군거렸다. 강아지가 공주의 옷을 더럽히자 백담우는 과도한 살기를 보이며 견주를 위협했다. 공주는 사람들의 차가운 시선과 백담우의 날 선 반응에 숨이 막혀 조용한 곳으로 이동했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_ALLEY_HWA_MEET",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "market_alley",
+    "tags": ["화야진", "첫만남", "함정", "연기", "피"],
+    "content": "인적 드문 골목에서 피를 흘리며 쓰러진 남자를 발견했다. 그는 화려한 복장에 이국적인 외모를 가졌으며, 자신을 숨겨달라고 애원했다. 공주는 그의 상처가 지나치게 깨끗하고 눈빛에 힘이 있다는 점을 통해, 이것이 자신에게 접근하기 위한 '미끼(자작극)'임을 간파했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_HWA_A",
+    "route": "hwayajin",
+    "speaker_view": "narrator",
+    "location": "market_alley",
+    "tags": ["선택지_결과", "화야진", "모른척", "연기"],
+    "content": "공주는 남자의 연기에 속아주는 척하며 그를 부축하라고 명했다. 남자는 안도하는 척했으나 눈빛 속의 계산은 여전했다. 공주는 의도를 숨긴 채 이 남자를 통제하기 위해 '품위 있는' 방식을 택했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_HWA_B",
+    "route": "hwayajin",
+    "speaker_view": "narrator",
+    "location": "market_alley",
+    "tags": ["선택지_결과", "화야진", "통찰", "정면돌파"],
+    "content": "공주가 '상처를 직접 만든 것 아니냐'며 정면으로 찔러보았다. 남자는 공주의 예리함에 감탄하며 태도를 바꾸었다. 공주는 함정임을 알면서도 그 의도를 파악하기 위해 그를 데려가기로 결정했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_HWA_C",
+    "route": "hwayajin",
+    "speaker_view": "narrator",
+    "location": "market_alley",
+    "tags": ["선택지_결과", "화야진", "현실적", "약점"],
+    "content": "공주가 위험을 피해 남자를 두고 가려 하자, 남자는 '청월국 유민'을 언급하며 공주의 관심을 끌었다. 공주는 생존의 현실과 유민의 안위를 위해 어쩔 수 없이 그를 데려가기로 했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_HWARIMHEON_RETURN",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_gate",
+    "tags": ["화야진_진입", "백담우", "감시병_제압", "화야진", "공주의_처소"],
+    "content": "부상당한 남자(화야진)를 데리고 화림헌으로 돌아왔다. 감시병이 막아섰으나, 백담우가 강한 살기로 제압하고 공주가 '나의 손님'이라며 밀어붙여 그를 창고에 들이는 데 성공했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_GARDEN_JIN_MEET",
+    "route": "common",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_garden",
+    "tags": ["진효", "새벽", "정원", "탐색전", "평화"],
+    "content": "며칠 후 새벽, 정원에서 진효와 마주쳤다. 진효는 완벽한 미소로 '평화'와 '조용함'에 대해 이야기했지만, 공주는 그 속에서 미묘한 외로움 혹은 정치적 장막을 느꼈다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_JIN_A",
+    "route": "jinhyo",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_garden",
+    "tags": ["선택지_결과", "진효", "통찰", "감정", "외로움"],
+    "content": "공주가 진효의 '평화'가 외롭게 들린다고 말하며 그의 감정을 꿰뚫었다. 진효는 잠시 멈칫했으나, 곧바로 공주의 감상을 패전국의 슬픔 탓으로 돌리며 틈을 내주지 않았다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_JIN_B",
+    "route": "jinhyo",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_garden",
+    "tags": ["선택지_결과", "진효", "품위", "과거", "그리움"],
+    "content": "공주가 청월의 소음이 그립다고 말하며 자신의 정체성을 지켰다. 진효는 이를 단순한 상실감으로 치부하며, 앞으로는 태휘국이 공주의 안식처가 되어야 한다고 부드럽게 압박했다."
+  },
+  {
+    "chapter": 1,
+    "scene_id": "1_CHOICE_JIN_C",
+    "route": "jinhyo",
+    "speaker_view": "narrator",
+    "location": "hwarimheon_garden",
+    "tags": ["선택지_결과", "진효", "통찰", "정치", "장막"],
+    "content": "공주가 '장막으로 무엇을 가리려 하느냐'며 정치적 의도를 정면으로 물었다. 진효는 공주의 영특함을 인정하면서도, '알 필요 없는 것'이라며 명확한 선을 그어 경고했다."
+  }
+]

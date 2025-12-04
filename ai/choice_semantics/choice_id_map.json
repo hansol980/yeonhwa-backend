@@ -1,0 +1,945 @@
+[
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_a-1",
+    "text": "...담우야, 이제 됐다. 그만하거라.",
+    "score": -2,
+    "tags": [
+      "제지",
+      "거리두기",
+      "통제_시도",
+      "품위_유지"
+    ],
+    "emotion": [
+      "당황",
+      "긴장",
+      "경계"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_a-2",
+    "text": "언행이 지나치구나. 어찌 이러는 거야?",
+    "score": -2,
+    "tags": [
+      "제지",
+      "거리두기",
+      "통제_시도",
+      "품위_유지"
+    ],
+    "emotion": [
+      "당황",
+      "긴장",
+      "경계"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_a-3",
+    "text": "이쯤이면 충분하다, 담우야. 검을 거두거라.",
+    "score": -2,
+    "tags": [
+      "제지",
+      "거리두기",
+      "통제_시도",
+      "품위_유지"
+    ],
+    "emotion": [
+      "당황",
+      "긴장",
+      "경계"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_a-4",
+    "text": "널 걱정하는 말이니 그만 하거라. 더는 이런 모습 보고 싶지 않구나.",
+    "score": -2,
+    "tags": [
+      "제지",
+      "거리두기",
+      "통제_시도",
+      "품위_유지"
+    ],
+    "emotion": [
+      "당황",
+      "긴장",
+      "경계"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_b-1",
+    "text": "할 말은 내 호위무사가 다 한 것 같은데, 이제 길을 비켜주세요.",
+    "score": 0,
+    "tags": [
+      "통찰",
+      "위협_이용",
+      "전략적_선택",
+      "감정_억제",
+      "정중한_압박"
+    ],
+    "emotion": [
+      "차분함",
+      "냉정함",
+      "자신감"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_b-2",
+    "text": "굳이 소란을 만들 필요는 없지요. 지금 길만 열어주시면 됩니다.",
+    "score": 0,
+    "tags": [
+      "통찰",
+      "위협_이용",
+      "전략적_선택",
+      "감정_억제",
+      "정중한_압박"
+    ],
+    "emotion": [
+      "차분함",
+      "냉정함",
+      "자신감"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_b-3",
+    "text": "전하께는 알아서 말씀드릴 것이니 이만 물러서세요.",
+    "score": 0,
+    "tags": [
+      "통찰",
+      "위협_이용",
+      "전략적_선택",
+      "감정_억제",
+      "정중한_압박"
+    ],
+    "emotion": [
+      "차분함",
+      "냉정함",
+      "자신감"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_b-4",
+    "text": "이쯤 하면 충분하지 않습니까. 그만 비키시오.",
+    "score": 0,
+    "tags": [
+      "통찰",
+      "위협_이용",
+      "전략적_선택",
+      "감정_억제",
+      "정중한_압박"
+    ],
+    "emotion": [
+      "차분함",
+      "냉정함",
+      "자신감"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_b-5",
+    "text": "담우야, 고마워. 이제 이쯤이면 길을 열어주시겠지요?",
+    "score": 0,
+    "tags": [
+      "통찰",
+      "위협_이용",
+      "전략적_선택",
+      "감정_억제",
+      "정중한_압박"
+    ],
+    "emotion": [
+      "차분함",
+      "냉정함",
+      "자신감"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_c-1",
+    "text": "담우야… 너, 괜찮은 거야? 네 기색이 평소와 다르구나.",
+    "score": 3,
+    "tags": [
+      "감정_접근",
+      "심리_관찰",
+      "관계_우선",
+      "통찰",
+      "연결_시도"
+    ],
+    "emotion": [
+      "걱정",
+      "따뜻함",
+      "애틋함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_c-2",
+    "text": "담우야, 어디 불편한 곳이라도 있는거야?",
+    "score": 3,
+    "tags": [
+      "감정_접근",
+      "심리_관찰",
+      "관계_우선",
+      "통찰",
+      "연결_시도"
+    ],
+    "emotion": [
+      "걱정",
+      "따뜻함",
+      "애틋함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_c-3",
+    "text": "아까부터 얼굴빛이 좋지 않구나. 어디 아픈 데는 없는거야?",
+    "score": 3,
+    "tags": [
+      "감정_접근",
+      "심리_관찰",
+      "관계_우선",
+      "통찰",
+      "연결_시도"
+    ],
+    "emotion": [
+      "걱정",
+      "따뜻함",
+      "애틋함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_baekdamwoo",
+    "character": "백담우",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "baekdamwoo_1_1_1_c-4",
+    "text": "담우야, 난 네가 걱정되어서 하는 말이야. 이러다가 네가 무너질까 두려워.",
+    "score": 3,
+    "tags": [
+      "감정_접근",
+      "심리_관찰",
+      "관계_우선",
+      "통찰",
+      "연결_시도"
+    ],
+    "emotion": [
+      "걱정",
+      "따뜻함",
+      "애틋함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_a-1",
+    "text": "어디 다치셨습니까? 의원을 불러야 할 것 같은데요.",
+    "score": 0,
+    "tags": [
+      "품위_유지",
+      "통제_시도",
+      "연기_동참",
+      "위험_관리",
+      "상황_진정"
+    ],
+    "emotion": [
+      "차분함",
+      "정중함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_a-2",
+    "text": "상처가 깊어 보이는군요. 의원을 불러드리겠습니다.",
+    "score": 0,
+    "tags": [
+      "품위_유지",
+      "통제_시도",
+      "연기_동참",
+      "위험_관리",
+      "상황_진정"
+    ],
+    "emotion": [
+      "차분함",
+      "정중함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_a-3",
+    "text": "바로 의원을 불러드릴테니 조금만 참으십시오.",
+    "score": 0,
+    "tags": [
+      "품위_유지",
+      "통제_시도",
+      "연기_동참",
+      "위험_관리",
+      "상황_진정"
+    ],
+    "emotion": [
+      "차분함",
+      "정중함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_a-4",
+    "text": "상처가 그리 심각하지는 않아보여 다행입니다. 그래도 지금은 의원부터 부르는 것이 맞겠지요.",
+    "score": 0,
+    "tags": [
+      "품위_유지",
+      "통찰_억제",
+      "상황_진정",
+      "연기_동참"
+    ],
+    "emotion": [
+      "차분함",
+      "조심스러움"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_a-5",
+    "text": "도와줄 의원을 찾아보겠습니다. 지금은 몸을 더 움직이지 않는 것이 좋겠습니다.",
+    "score": 0,
+    "tags": [
+      "품위_유지",
+      "안전",
+      "상황_진정"
+    ],
+    "emotion": [
+      "정중함",
+      "차분함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_b-1",
+    "text": "그 상처, 스스로 만드신 겁니까?",
+    "score": 5,
+    "tags": [
+      "통찰",
+      "위험_감수",
+      "정보_획득",
+      "심리전",
+      "핵심_찌르기"
+    ],
+    "emotion": [
+      "담대함",
+      "의심",
+      "예리함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_b-2",
+    "text": "이건 싸움의 상처가 아닙니다. 누가 이렇게 만들었습니까? 아니면… 스스로 베신 건가요?",
+    "score": 5,
+    "tags": [
+      "통찰",
+      "위험_감수",
+      "정보_획득",
+      "심리전",
+      "정면_추궁"
+    ],
+    "emotion": [
+      "담대함",
+      "의심",
+      "예리함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_b-3",
+    "text": "상처가 너무 깨끗하군요. …꼭 '스스로 미끼가 되기 위한 자'의 손길 같습니다.",
+    "score": 5,
+    "tags": [
+      "통찰",
+      "심리전",
+      "핵심_찌르기",
+      "정보_획득",
+      "위험_감수"
+    ],
+    "emotion": [
+      "담대함",
+      "의심",
+      "예리함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_b-4",
+    "text": "…이런 위험한 연기까지 해가며 절 찾아오신 이유, 지금 들어도 되겠습니까?",
+    "score": 5,
+    "tags": [
+      "통찰",
+      "직설",
+      "위험감수",
+      "심리전"
+    ],
+    "emotion": [
+      "담대함",
+      "예리함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_b-5",
+    "text": "굳이 제 눈앞까지 이렇게 나타나신 이유… 숨기지 않으셔도 됩니다.",
+    "score": 5,
+    "tags": [
+      "통찰",
+      "핵심찌르기",
+      "심리전",
+      "위험감수"
+    ],
+    "emotion": [
+      "예리함",
+      "확신"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_b-6",
+    "text": "이 정도로 준비하신 걸 보면… 저에게서 원하시는 게 꽤 크군요?",
+    "score": 5,
+    "tags": [
+      "통찰",
+      "위험감수",
+      "심리전",
+      "직설"
+    ],
+    "emotion": [
+      "담대함",
+      "의심"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_c-1",
+    "text": "백담우, 이 자를 두고 간다.",
+    "score": -5,
+    "tags": [
+      "현실적_회피",
+      "위험_회피",
+      "거리두기",
+      "상황_차단",
+      "단호한_결정"
+    ],
+    "emotion": [
+      "냉정함",
+      "단호함",
+      "불안"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_c-2",
+    "text": "담우야, 물러서라. 저 자는 더 엮일 이유가 없다. 지금 바로 떠난다.",
+    "score": -5,
+    "tags": [
+      "위험_회피",
+      "거리두기",
+      "상황_차단",
+      "단호한_결정"
+    ],
+    "emotion": [
+      "냉정함",
+      "단호함",
+      "불안"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_c-3",
+    "text": "내가 당신과 무슨 상관인지요?",
+    "score": -5,
+    "tags": [
+      "위험_회피",
+      "상황_차단",
+      "단호한_결정",
+      "거리두기"
+    ],
+    "emotion": [
+      "냉정함",
+      "단호함",
+      "무관심"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_c-4",
+    "text": "당신 의도가 무엇이든… 지금은 엮일 생각 없습니다.",
+    "score": -5,
+    "tags": [
+      "거리두기",
+      "회피",
+      "상황차단"
+    ],
+    "emotion": [
+      "냉정함",
+      "단호함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_market_hwayajin",
+    "character": "화야진",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "hwayajin_1_2_1_c-5",
+    "text": "백담우, 이 자는 더 볼 필요도 없다. 떠난다.",
+    "score": -5,
+    "tags": [
+      "거리두기",
+      "상황차단",
+      "회피"
+    ],
+    "emotion": [
+      "냉정함",
+      "불안"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_a-1",
+    "text": "전하께서 말씀하신 그 평화… 저에게는 어째서인지 외로움처럼 들립니다.",
+    "score": 7,
+    "tags": [
+      "통찰",
+      "감정_읽기",
+      "부드러운_도전",
+      "심리적_대화",
+      "은유적_질문"
+    ],
+    "emotion": [
+      "조심스러움",
+      "부드러움",
+      "긴장"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_a-2",
+    "text": "전하께서 말하신 평화… 그 안에 미묘한 고독이 섞여 있는 듯합니다.",
+    "score": 7,
+    "tags": [
+      "통찰",
+      "감정_읽기",
+      "부드러운_도전",
+      "심리적_대화",
+      "은유적_질문"
+    ],
+    "emotion": [
+      "조심스러움",
+      "부드러움",
+      "긴장"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_a-3",
+    "text": "전하의 평화는… 제게는 어딘가 쓸쓸하게 들렸습니다.",
+    "score": 7,
+    "tags": [
+      "통찰",
+      "감정_읽기",
+      "부드러운_도전",
+      "심리적_대화",
+      "은유적_질문"
+    ],
+    "emotion": [
+      "조심스러움",
+      "부드러움",
+      "긴장"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_b-1",
+    "text": "청월의 소란이… 문득 떠오릅니다. 그때가 그리워지는군요.",
+    "score": -3,
+    "tags": [
+      "과거_회상",
+      "감정_표출",
+      "회피",
+      "품위_유지"
+    ],
+    "emotion": [
+      "그리움",
+      "쓸쓸함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_b-2",
+    "text": "태휘의 고요함도 좋지만… 청월의 소음이 아직 제 가슴에서 떠나지 않습니다.",
+    "score": -3,
+    "tags": [
+      "과거_회상",
+      "감정_표출",
+      "회피",
+      "품위_유지"
+    ],
+    "emotion": [
+      "그리움",
+      "쓸쓸함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_b-3",
+    "text": "전하께서 말씀하신 고요함이… 저에게는 아직 익숙지 않습니다. 청월의 소리가 그리워서요.",
+    "score": -3,
+    "tags": [
+      "과거_회상",
+      "감정_표출",
+      "회피",
+      "품위_유지"
+    ],
+    "emotion": [
+      "그리움",
+      "쓸쓸함"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_c-1",
+    "text": "전하께서 말씀하신 장막… 그 뒤에는 무엇이 있는 겁니까?",
+    "score": 0,
+    "tags": [
+      "정치적_도전",
+      "통찰",
+      "직구",
+      "핵심_찌르기",
+      "심리전"
+    ],
+    "emotion": [
+      "담대함",
+      "긴장",
+      "조심스러움"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_c-2",
+    "text": "그 장막이라 하신 것… 무엇을 위한 장치인지 여쭤도 되겠습니까?",
+    "score": 0,
+    "tags": [
+      "정치적_도전",
+      "통찰",
+      "직구",
+      "핵심_찌르기",
+      "심리전"
+    ],
+    "emotion": [
+      "담대함",
+      "긴장",
+      "조심스러움"
+    ]
+  },
+  {
+    "scene_id": "chapter1_garden_jinhyo",
+    "character": "진효",
+    "chapter": 1,
+    "step": 1,
+    "choice_id": "jinhyo_1_3_1_c-3",
+    "text": "전하. 그 장막은… 무엇을 감추어야만 유지되는 겁니까?",
+    "score": 0,
+    "tags": [
+      "정치적_도전",
+      "통찰",
+      "직구",
+      "핵심_찌르기",
+      "심리전"
+    ],
+    "emotion": [
+      "담대함",
+      "긴장",
+      "조심스러움"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_a-1",
+    "text": "다 죽어가는 것처럼 보이더니, 살 만 해진 모양이군요?",
+    "score": 5,
+    "tags": [
+      "비꼼",
+      "경계",
+      "허무함",
+      "반발심",
+      "거리두기"
+    ],
+    "emotion": [
+      "황당함",
+      "어이없음",
+      "경계"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_a-2",
+    "text": "이제 농담까지 하는 걸 보니 걱정할 필요가 없었군요.",
+    "score": 5,
+    "tags": [
+      "비꼼",
+      "경계",
+      "거리두기",
+      "냉소"
+    ],
+    "emotion": [
+      "황당함",
+      "어이없음"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_a-3",
+    "text": "죽을 고비를 넘기더니 입만 살았군요.",
+    "score": 5,
+    "tags": [
+      "비난",
+      "직설적",
+      "불쾌감",
+      "공격적"
+    ],
+    "emotion": [
+      "불쾌함",
+      "짜증"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_b-1",
+    "text": "조용히 하세요. 상처도 아물지 않은 채 쫓겨나고 싶은 건가요?",
+    "score": -5,
+    "tags": [
+      "경고",
+      "통제",
+      "위협",
+      "현실적_판단",
+      "단호함"
+    ],
+    "emotion": [
+      "긴장",
+      "단호함",
+      "불안"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_b-2",
+    "text": "목소리를 낮추세요. 쫓겨나고 싶지 않다면.",
+    "score": -5,
+    "tags": [
+      "경고",
+      "명령",
+      "냉정함",
+      "통제"
+    ],
+    "emotion": [
+      "냉정함",
+      "긴장"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_b-3",
+    "text": "쉿. 밖에서 듣습니다. 죽고 싶으신 겁니까?",
+    "score": -5,
+    "tags": [
+      "경고",
+      "위협",
+      "긴박함",
+      "생존_본능"
+    ],
+    "emotion": [
+      "불안",
+      "다급함"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_c-1",
+    "text": "당신... 대체 정체가 무엇입니까?",
+    "score": 0,
+    "tags": [
+      "의심",
+      "질문",
+      "진지함",
+      "탐색",
+      "정체_파악"
+    ],
+    "emotion": [
+      "의심",
+      "궁금증",
+      "진지함"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_c-2",
+    "text": "도대체 당신은 누구길래 이런 상황에서도 웃을 수 있습니까?",
+    "score": 0,
+    "tags": [
+      "의심",
+      "질문",
+      "호기심",
+      "경계"
+    ],
+    "emotion": [
+      "의아함",
+      "혼란"
+    ]
+  },
+  {
+    "scene_id": "chapter2_warehouse_hwayajin",
+    "character": "화야진",
+    "chapter": 2,
+    "step": 1,
+    "choice_id": "hwayajin_2_1_1_c-3",
+    "text": "평범한 상인은 아니군요. 정체를 밝히세요.",
+    "score": 0,
+    "tags": [
+      "통찰",
+      "요구",
+      "당당함",
+      "직설적"
+    ],
+    "emotion": [
+      "확신",
+      "의심"
+    ]
+  }
+]

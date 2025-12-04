@@ -1,10 +1,18 @@
 import json
-from sentence_transformers import SentenceTransformer
 import numpy as np
 import re
 import os
+import google.generativeai as genai
+from dotenv import load_dotenv
 
-model = SentenceTransformer("jhgan/ko-sroberta-multitask")
+# 환경 변수 로드
+load_dotenv()
+api_key = os.getenv("GOOGLE_API_KEY")
+
+if api_key:
+    genai.configure(api_key=api_key)
+else:
+    print("Warning: GOOGLE_API_KEY not found. Embeddings will fail.")
 
 # JSON 로드
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -33,7 +41,22 @@ def normalize_punctuation(text: str) -> str:
 
 
 # 🔹 전역 캐시: choice id → embedding
-choice_vec_cache: dict[str, np.ndarray] = {}
+choice_vec_cache: dict[str, list[float]] = {}
+
+
+def get_embedding(text: str) -> list[float]:
+    """Gemini API를 사용하여 텍스트 임베딩 생성"""
+    try:
+        result = genai.embed_content(
+            model="models/text-embedding-004",
+            content=text,
+            task_type="semantic_similarity"
+        )
+        return result['embedding']
+    except Exception as e:
+        print(f"Embedding Error: {e}")
+        # 에러 시 0 벡터 반환 (서버 죽는 것 방지)
+        return [0.0] * 768 
 
 
 def build_choice_embedding(choice):
@@ -56,7 +79,7 @@ def build_choice_embedding(choice):
     if meta_emotion:
         full += f" [감정: {meta_emotion}]"
 
-    vec = model.encode(full)
+    vec = get_embedding(full)
     choice_vec_cache[cid] = vec
     return vec
 
@@ -71,16 +94,22 @@ def find_best_choice(user_text, scene_id):
 
     # 2) user 텍스트 정규화 + 임베딩
     norm_text = normalize_punctuation(user_text)
-    user_vec = model.encode(norm_text)
+    user_vec = get_embedding(norm_text)
 
     # 3) 씬 내부 선택지 임베딩 + 코사인 유사도
     scores = []
+    
+    # user_vec이 유효한지 확인 (API 에러 등)
+    user_norm = np.linalg.norm(user_vec)
+    
     for choice in choices:
         choice_vec = build_choice_embedding(choice)
+        choice_norm = np.linalg.norm(choice_vec)
 
-        sim = np.dot(user_vec, choice_vec) / (
-            np.linalg.norm(user_vec) * np.linalg.norm(choice_vec)
-        )
+        if user_norm == 0 or choice_norm == 0:
+            sim = 0.0
+        else:
+            sim = np.dot(user_vec, choice_vec) / (user_norm * choice_norm)
 
         scores.append((sim, choice))
 

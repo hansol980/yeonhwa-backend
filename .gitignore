@@ -1,0 +1,10 @@
+/test_rag.py
+/model_check.py
+/__pycache__/
+/model_check.py
+.env
+__pycache__
+before/
+/answer_1-1.py
+/answer_gemini.py
+.DS_Store

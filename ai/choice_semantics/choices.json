@@ -1566,7 +1566,7 @@
     ]
   },
   {
-    "scene_id": "chapter3_room_hwayajin",
+    "scene_id": "chapter2_kidnap_hwayajin",
     "character": "화야진",
     "chapter": 3,
     "scene": 1,
@@ -1845,7 +1845,7 @@
     ]
   },
   {
-    "scene_id": "chapter3_ship_hwayajin",
+    "scene_id": "chapter3_final_decision",
     "character": "화야진",
     "chapter": 3,
     "scene": 2,
@@ -2178,7 +2178,7 @@
     ]
   },
   {
-    "scene_id": "chapter4_ship_hwayajin",
+    "scene_id": "chapter4_name_choice",
     "character": "화야진",
     "chapter": 4,
     "scene": 1,
@@ -2511,7 +2511,7 @@
     ]
   },
   {
-    "scene_id": "chapter4_shop_hwayajin",
+    "scene_id": "chapter4_negotiation_start",
     "character": "화야진",
     "chapter": 4,
     "scene": 2,
@@ -2844,7 +2844,7 @@
     ]
   },
   {
-    "scene_id": "chapter4_room_hwayajin",
+    "scene_id": "chapter4_investigation",
     "character": "화야진",
     "chapter": 4,
     "scene": 3,
